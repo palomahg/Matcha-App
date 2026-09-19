@@ -1,6 +1,6 @@
 # MatchApp 🍵
 
-> Plataforma móvil de descubrimiento y valoración de los mejores templos y cafés de matcha en España (Madrid, Barcelona, Valencia, Sevilla, Málaga, Bilbao).
+> Plataforma móvil de descubrimiento y valoración de los mejores templos y cafés de matcha en España (Madrid).
 
 Inspirada en el universo visual y ritual de **Maison Matcha**, con una dirección de arte serena, orgánica, minimalista y cálida basada en tonos crema, avena, verde salvia y matcha profundo.
 
