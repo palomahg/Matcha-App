@@ -1,0 +1,10 @@
+{
+  "name": "MatchApp",
+  "description": "Descubre y valora los mejores cafés, teterías y espacios de matcha de España con MatchApp.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
